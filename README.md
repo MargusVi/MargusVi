@@ -1,9 +1,13 @@
 # **Marcos Vinícius da Silva**
 
 ### Um pouco sobre mim...
-Interessado em me aprofundar na área de tecnologia e em busca de um pontapé inicial nesse setor
-do mercado de trabalho para adquirir conhecimento para construir minha carreira no futuro.
 
+- Atualmente trabalhando como helpdesk de TI<br>
+- Cursando Engenharia da Computação<br>
+- Fascinado por tecnologia<br>
+- Interessado em me aprofundar na área de desenvolvimento<br><br>
+
+### Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
