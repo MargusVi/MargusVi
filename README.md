@@ -2,11 +2,11 @@
 
 ### Um pouco sobre mim...
 
-- 🙇‍♂️ Atualmente trabalhando como helpdesk de TI<br>
+- 🙇‍♂️ Procurando emprego<br>
 - 💻 Cursando Engenharia da Computação<br>
 - 🎇 Fascinado por tecnologia<br>
 - 📚 Interessado em me aprofundar na área de desenvolvimento<br>
-- 🎮 Participando da <a href="https://itch.io/jam/roguelike-jam-6">Roguelike Jam 6</a><br>
+- 🎮 Participando da <a href="https://itch.io/jam/godot-wild-jam-62">Godot Wild Jam #62</a><br>
 - <img align="center" alt="Linkedin" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">  <a href="https://www.linkedin.com/in/marcosvinicius-da-silva/">Linkedin</a><br><br>
 
 ### Tecnologias
