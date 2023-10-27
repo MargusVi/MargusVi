@@ -6,7 +6,7 @@
 - 💻 Cursando Engenharia da Computação<br>
 - 🎇 Fascinado por tecnologia<br>
 - 📚 Interessado em me aprofundar na área de desenvolvimento<br>
-- 🎮 Participando da <a href="https://itch.io/jam/godot-wild-jam-62">Godot Wild Jam #62</a><br>
+- 🎮 Desenvolvendo um jogo indie<br>
 - <img align="center" alt="Linkedin" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">  <a href="https://www.linkedin.com/in/marcosvinicius-da-silva/">Linkedin</a><br><br>
 
 ### Tecnologias
