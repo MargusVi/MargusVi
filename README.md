@@ -1,4 +1,5 @@
 # **Marcos Vinícius da Silva**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/marcosvinicius-da-silva/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:marcos.vinicius.da.silva.pro@gmail.com)
 
 ### Um pouco sobre mim...
 
@@ -6,8 +7,7 @@
 - 💻 Cursando Engenharia da Computação<br>
 - 🎇 Fascinado por tecnologia<br>
 - 📚 Interessado em me aprofundar na área de desenvolvimento<br>
-- 🎮 Desenvolvendo um jogo indie<br>
-- <img align="center" alt="Linkedin" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">  <a href="https://www.linkedin.com/in/marcosvinicius-da-silva/">Linkedin</a><br><br>
+- 🎮 Desenvolvendo um jogo indie<br><br>
 
 ### Tecnologias
 <div style="display: inline_block"><br>
