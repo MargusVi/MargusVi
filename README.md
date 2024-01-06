@@ -1,22 +1,34 @@
-# **Marcos Vinícius da Silva**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/marcosvinicius-da-silva/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:marcos.vinicius.da.silva.pro@gmail.com)
+<h1 align="center">Marcos Vinícius da Silva</h1>
 
-### Um pouco sobre mim...
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcosvinicius-da-silva/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8">
+  </a>
+  <a href="mailto:marcos.vinicius.da.silva.pro@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF">
+  </a>
+  <a href="https://web.whatsapp.com/send?phone=5537999077044">
+    <img alt="Whatsapp" src="https://img.shields.io/badge/-Whatsapp-000?style=for-the-badge&logo=whatsapp&logoColor=007BFF">
+  </a>
+</p><br>
+
+<h2 align="center">Um pouco sobre mim...</h2>
 
 - 🙇‍♂️ Procurando emprego<br>
 - 💻 Cursando Engenharia da Computação<br>
 - 🎇 Fascinado por tecnologia<br>
 - 📚 Interessado em me aprofundar na área de desenvolvimento<br>
-- 🎮 Desenvolvendo um jogo indie<br>
-- 🌟 Objetivo para 2024: ter pelo menos 1 commit todos os dias<br><br>
+- 🎮 Participando da Boss Rush Jam 2024<br>
+- 🌟 Objetivo para 2024: ter pelo menos 1 commit todos os dias<br><br><br>
 
-### Tecnologias
-<div style="display: inline-block"><br>
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Godot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+<h2 align="center">Tecnologias</h2>
+
+<p align="center"><br>
+  <img alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img alt="Godot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
+  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</p>
