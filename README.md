@@ -15,6 +15,7 @@
 <h2 align="center">Um pouco sobre mim...</h2>
 
 - 🙇‍♂️ Procurando emprego<br>
+- 🦾 Estagiário de Engenharia de Processos na Belgo Arames<br>
 - 💻 Cursando Engenharia da Computação<br>
 - 🎇 Fascinado por tecnologia<br>
 - 📚 Interessado em me aprofundar na área de desenvolvimento<br>
