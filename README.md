@@ -18,7 +18,7 @@
 - 💻 Cursando Engenharia da Computação<br>
 - 🎇 Fascinado por tecnologia<br>
 - 📚 Interessado em me aprofundar na área de desenvolvimento<br>
-- 🎮 Participando da Boss Rush Jam 2024<br>
+- 🎮 Participando da <a href="https://itch.io/jam/boss-rush-jam-2024">Boss Rush Jam 2024</a><br>
 - 🌟 Objetivo para 2024: ter pelo menos 1 commit todos os dias<br><br><br>
 
 <h2 align="center">Tecnologias</h2>
