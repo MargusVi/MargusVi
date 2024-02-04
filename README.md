@@ -14,12 +14,11 @@
 
 <h2 align="center">Um pouco sobre mim...</h2>
 
-- 🙇‍♂️ Procurando emprego<br>
+- 🙇‍♂️ Aberto a ofertas de emprego<br>
 - 🦾 Estagiário de Engenharia de Processos na Belgo Arames<br>
 - 💻 Cursando Engenharia da Computação<br>
 - 🎇 Fascinado por tecnologia<br>
 - 📚 Interessado em me aprofundar na área de desenvolvimento<br>
-- 🎮 Participando da <a href="https://itch.io/jam/boss-rush-jam-2024">Boss Rush Jam 2024</a><br>
 - 🌟 Objetivo para 2024: ter pelo menos 1 commit todos os dias<br><br><br>
 
 <h2 align="center">Tecnologias</h2>
