@@ -18,8 +18,7 @@
 - 🦾 Estagiário de Engenharia de Processos na Belgo Arames<br>
 - 💻 Cursando Engenharia da Computação<br>
 - 🎇 Fascinado por tecnologia<br>
-- 📚 Interessado em me aprofundar na área de desenvolvimento<br>
-- 🌟 Objetivo para 2024: ter pelo menos 1 commit todos os dias<br><br><br>
+- 📚 Interessado em me aprofundar na área de desenvolvimento<br><br>
 
 <h2 align="center">Tecnologias</h2>
 
