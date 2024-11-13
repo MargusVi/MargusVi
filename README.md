@@ -15,7 +15,7 @@
 <h2 align="center">Um pouco sobre mim...</h2>
 
 - 🙇‍♂️ Aberto a ofertas de emprego<br>
-- ☀️ Assistente de Engenharia na Apollo Energia Solar<br>
+- ☀️ Desenvolvedor Full Stack e Assistente de Engenharia na Apollo Energia Solar<br>
 - 💻 Cursando Engenharia da Computação<br>
 - 🎇 Fascinado por tecnologia<br>
 - 📚 Interessado em me aprofundar na área de desenvolvimento<br>
