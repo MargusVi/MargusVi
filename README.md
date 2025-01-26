@@ -1,9 +1,6 @@
 <h1 align="center">Marcos Vinícius da Silva</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marcosvinicius-da-silva/">
-    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8">
-  </a>
   <a href="mailto:marcos.vinicius.da.silva.pro@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF">
   </a>
